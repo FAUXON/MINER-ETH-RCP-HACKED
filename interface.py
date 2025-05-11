@@ -68,7 +68,7 @@ window.config(bg="#2c3e50")
 frame = tk.Frame(window, bg="#34495e")
 frame.pack(pady=20, padx=20, fill=tk.BOTH, expand=True)
 
-title_label = tk.Label(frame, text="ETH Mining Simulator", font=("Helvetica", 16, "bold"), fg="white", bg="#34495e")
+title_label = tk.Label(frame, text="ETH Mining RCP Hacked", font=("Helvetica", 16, "bold"), fg="white", bg="#34495e")
 title_label.pack(pady=10)
 
 blockchain_info = """🔗 Blockchain Information:
