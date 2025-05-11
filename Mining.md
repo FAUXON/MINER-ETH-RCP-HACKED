@@ -1,0 +1,1 @@
+# Mining.md - Example file related to blockchain/Web3
